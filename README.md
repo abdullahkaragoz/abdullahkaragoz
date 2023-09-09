@@ -9,8 +9,8 @@
  ⚡ Fun fact: My favorite book is Steve Jobs.
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahkaraqoz) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkaragoz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahkaraqoz) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdullahkaragoz) 
 [![Hackerrank](https://img.shields.io/badge/hackerrank-12100E?logo=hackerrank&logoColor=white)](https://hackerrank.com/abdullahkaragoz1) 
 [![Discord](https://img.shields.io/badge/discord-12100E?logo=discord&logoColor=white)](https://discord.gg/abdullahkaraqoz) 
