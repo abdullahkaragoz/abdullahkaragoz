@@ -11,8 +11,8 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkaragoz) 
 [![Medium](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@abdullahkaragoz) 
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-12100E?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14294860)
 [![Hackerrank](https://img.shields.io/badge/hackerrank-12100E?logo=hackerrank&logoColor=white)](https://hackerrank.com/abdullahkaragoz1) 
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-12100E?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14294860)
 
 
 # 💻Skills
