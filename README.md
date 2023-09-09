@@ -13,8 +13,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@abdullahkaragoz) 
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-12100E?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14294860)
 [![Hackerrank](https://img.shields.io/badge/hackerrank-12100E?logo=hackerrank&logoColor=white)](https://hackerrank.com/abdullahkaragoz1) 
-[![Discord](https://img.shields.io/badge/discord-12100E?logo=discord&logoColor=white)](https://discord.gg/abdullahkaraqoz) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahkaraqoz) 
+
 
 # 💻Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![T-Sql](https://img.shields.io/badge/microsoft-sql-server%23E34F26.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-%23F24E1E.svg?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Click Up](https://img.shields.io/badge/click-up-%23F24E1E.svg?style=for-the-badge&logo=click-up&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
