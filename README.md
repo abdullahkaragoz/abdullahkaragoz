@@ -3,7 +3,6 @@
 # 💫About Me :
  🔭 I'm currently looking for a new job.\
  🌱 I’m currently learning more about .Net Development.\
- 🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - abdullahkaragoz30@gmail.com\
  ⚡ Fun fact: My favorite book is Steve Jobs.
