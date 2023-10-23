@@ -16,8 +16,3 @@
 
 # 💻Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![T-Sql](https://img.shields.io/badge/microsoft-sql-server%23E34F26.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-%23F24E1E.svg?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Click Up](https://img.shields.io/badge/click-up-%23F24E1E.svg?style=for-the-badge&logo=click-up&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
----
-![](https://komarev.com/ghpvc/?username=abdullahkaragoz&style=flat)
