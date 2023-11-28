@@ -1,7 +1,6 @@
 # Hi, I'm [Abdullah Karagoz](https://www.linkedin.com/in/abdullahkaragoz/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
- 🔭 I'm currently looking for a new job.\
  🌱 I’m currently learning more about .Net Development.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - abdullah.karagoz@outlook.com\
