@@ -6,6 +6,11 @@
  📫 How to reach me: Email - abdullah.karagoz@outlook.com\
  ⚡ Fun fact: My favorite book is Steve Jobs.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkaragoz&show_icons=true&locale=en&layout=compact" alt="abdullahkaragoz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&show_icons=true&locale=en" alt="abdullahkaragoz" /></p>
+<br/>
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkaragoz) 
 [![Medium](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@abdullahkaragoz) 
