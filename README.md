@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkaragoz&show_icons=true&locale=en&layout=compact" alt="abdullahkaragoz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&show_icons=true&locale=en" alt="abdullahkaragoz" /></p>
+<p>&nbsp;<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&show_icons=true&theme=dark)" alt="abdullahkaragoz" /></p>
 <br/>
 
 ## 🌐Socials
