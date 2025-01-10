@@ -8,8 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkaragoz&show_icons=true&locale=en&layout=compact" alt="abdullahkaragoz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&show_icons=true&locale=en" alt="abdullahkaragoz" /></p>
-
+<a href="https://github.com/abdullahkaragoz/abdullahkaragoz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkaragoz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdullah's github stats" /></a> | <a href="https://github.com/abdullahkaragoz/abdullahkaragoz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkaragoz&layout=compact&theme=buefy&hide_border=true" /></a>
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkaragoz) 
 [![Medium](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@abdullahkaragoz) 
